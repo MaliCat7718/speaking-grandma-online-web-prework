@@ -13,10 +13,6 @@
 # 'I LOVE YOU TOO PUMPKIN!'
 phrase = "I LOVE YOU GRANDMA!"
 
-def speak_to_grandma(phrase)
-  puts "#{phrase}"
-end
-
 if phrase == "I love you Grandma!"
     puts "NO, NOT SINCE 1938!"
   elsif phrase == "I LOVE YOU GRANDMA!"

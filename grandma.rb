@@ -26,4 +26,3 @@ elsif phrase == "WHAT?"
 else
     puts "HUH?! SPEAK UP,SONNY!"
 end
-
